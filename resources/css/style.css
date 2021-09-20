@@ -19,18 +19,15 @@ h2 {
 }
 
 h3 {
+    font-weight: normal;
     font-size: 21px;
     color: gray;
 }
-p {
+ .footer {
+     text-align: right;
+ }
 
-}
-
-a {
+.cta {
     color: aquamarine;
     font-size: 16px;
-}
-
-a:hover {
-
 }
